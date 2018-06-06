@@ -1,0 +1,898 @@
+Previous enciphers and deciphers of Polybius square cipher: 
+Encipher:
+Plain text: hari
+Cipher text: 23114224
+Encipher: 
+Plain text: hari
+Cipher text: 23114224
+Encipher: 
+Plain text: sriviswa
+Cipher text: 4342245124435211
+Decipher:
+Cipher text:2147483647
+Plain text: fwxqw
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Decipher:
+Cipher text:0
+Plain text: 
+Encipher: 
+Plain text: sri
+Cipher text: 434224
+Decipher:
+Cipher text:434224
+Plain text: sri

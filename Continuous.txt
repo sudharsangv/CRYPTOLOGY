@@ -1,0 +1,19 @@
+Previos encipher and decipher of Continuous square cipher:
+Encipher: 
+Plain text: hari
+Cipher text: 23114422
+Encipher: 
+Plain text: sriviswa
+Cipher text: 4344225122435211
+Encipher: 
+Plain text: hari
+Cipher text: 23114422
+Decipher:
+Cipher text:23114422
+Plain text: hari
+Encipher: 
+Plain text: hari
+Cipher text: 23114422
+Decipher:
+Cipher text:23114422
+Plain text: hari

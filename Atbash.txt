@@ -1,0 +1,13 @@
+Previous enciphers and deciphers of Atbash cipher:
+Encipher: 
+Plain text: hari
+Cipher text: szir
+Decipher:
+Cipher text: szir
+Plain text: hari
+Decipher:
+Cipher text: szir
+Plain text: hari
+Decipher:
+Cipher text: hirerhdz
+Plain text: sriviswa

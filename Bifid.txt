@@ -1,0 +1,7 @@
+Previous encipher and decipher of Bifid cipher:
+Encipher: 
+Plain text: hari
+Cipher text: frli
+Decipher: 
+Cipher text: frli
+Plain text: hari

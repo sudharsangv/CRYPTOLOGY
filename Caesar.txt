@@ -1,0 +1,22 @@
+Previous encipher and decipher of Caesar cipher:
+Encipher: 
+Plain text: hari
+Cipher text: exof
+Decipher: 
+Cipher text: exof
+Plain text: hari
+Encipher: 
+Plain text: hari
+Cipher text: szir
+Encipher: 
+Plain text: hari
+Cipher text: szir
+Encipher: 
+Plain text: sriviswa
+Cipher text: hirerhdz
+Encipher: 
+Plain text: sriviswa
+Cipher text: pofsfptx
+Decipher: 
+Cipher text: pofsfptx
+Plain text: sriviswa

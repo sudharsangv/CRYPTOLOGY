@@ -1,0 +1,16 @@
+Previous encipher and decipher of Trifid cipher:
+Encipher:
+Plain text: hari
+Ciphered text: db.i
+Decipher: 
+Cipher text: db.i
+Plain text: hari
+Encipher:
+Plain text: hari
+Ciphered text: db.i
+Encipher:
+Plain text: sri
+Ciphered text: tii
+Decipher: 
+Cipher text: tii
+Plain text: s

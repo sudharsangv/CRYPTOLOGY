@@ -1,0 +1,29 @@
+Previous enciphers and deciphers of  Rail fence cipher:
+Encipher:
+Plain text: harisa
+Cipher text: hi_as_ra
+Decipher:
+Cipher text: hi_ad_ra
+Plain text: harida
+Encipher:
+Plain text: hari
+Cipher text: Ciphering terminated
+Encipher:
+Plain text: harisa
+Cipher text: hi_as_ra
+Decipher:
+Cipher text: hi_as_ra
+Plain text: harisa
+Decipher:
+Cipher text: sv_ri_is
+Plain text: srivis
+Decipher: 
+Cipher text: sv_ri_is
+Plain text: srivisDecipher: 
+Cipher text: h_a_r
+Plain text: harEncipher: 
+Plain text: hari
+Cipher text: Ciphering terminated
+Decipher: 
+Cipher text: ha_r_i
+Plain text: Deciphering terminated
